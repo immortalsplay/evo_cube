@@ -1,5 +1,10 @@
 # evo_cube
 
-![image](https://github.com/immortalsplay/assign2/blob/a4ef94755fce45546c51db71ad1bbcca08ad7a84/figure/1.gif) 
+## breath 
+
+![image](https://github.com/immortalsplay/evo_cube/blob/1f60619042de7a25e4ffea32bc9585cf07fb8c88/breath.gif) 
+
+## bounce
+
 ![image](https://github.com/immortalsplay/evo_cube/blob/9074f8c049f9315627853a3c894fab2627c47132/bounce.gif) 
 
